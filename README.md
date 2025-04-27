@@ -14,12 +14,6 @@ This project enables users to:
 
 ---
 
-## 🚀 Live Demo
-
-> (Optional: Add your Streamlit Cloud / Hugging Face Space / Render link here if you deploy it!)
-
----
-
 ## 🛠️ Built With
 
 - **Python** 🐍
