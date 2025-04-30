@@ -1,6 +1,6 @@
 # Culinary_Intelligence
 
-> **An AI-powered app that generates restaurant names and customized menu items based on cuisine type — built with Streamlit, LangChain, and OpenAI.**
+> **An AI-powered app that generates restaurant names and customized menu items based on cuisine type — built with Streamlit, LangChain, and OpenAI.** 
 
 ---
 
